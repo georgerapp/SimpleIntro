@@ -1,3 +1,7 @@
+## Sorry for not managing properly. I hope this repo helped you create a hugo theme
+
+## If you want to use this theme, Use [qub1750ul/hugo-simpleIntro](https://github.com/qub1750ul/hugo-simpleIntro) Fork.
+
 # Simple Intro
 
 simple theme for hugo
